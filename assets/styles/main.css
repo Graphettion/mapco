@@ -1364,6 +1364,14 @@ body {
 }
 
 @media (max-width: 768px) {
+  .hero-description {
+    padding-top: 7rem;
+  }
+
+  .hero-content {
+    padding: 0;
+  }
+  
   .hero-stats {
       position: relative;
       bottom: auto;
